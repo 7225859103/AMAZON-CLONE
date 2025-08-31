@@ -203,6 +203,8 @@ span {
   width: 200px;
   height: 200px;
   background-color: lightblue;
+  margin-bottom: 50px;
+  z-index: -1;
 }
 
 .box {
